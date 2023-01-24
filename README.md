@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyroheet/BasicSMS](https://github.com/heyroheet/BasicSMS)
 
-- 📝 I regularly write articles on [https://rohitsirblog.wordpress.com/](https://rohitsirblog.wordpress.com/)
-
 - 💬 Ask me about **java, html, css, angular,**
 
 - 📫 How to reach me **heyrohitraman@gmail.com**
